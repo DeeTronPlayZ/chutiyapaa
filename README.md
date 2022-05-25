@@ -6,28 +6,6 @@ I'm a Discord Bot Developer and here is mine Discord Music Bot
 
 a discord music bot with many commands , buttons , 24/7 , autresume ,etc
 
-## **Installation | How to use the Bot**
-
-**1.** Install [node.js v16](https://nodejs.org/en/) or higher
-
-**2.** Download this repo and unzip it | or git clone it
-
-**3.** Fill in everything in **`settings/config.js`**
-
-**4.** after Fill everything in config Type in shall **`npm install`**
-
-**5.** start the bot with **`node index.js`**
-<br/>
-
-### _Modify - config.js_
-
-```javascript
-{
-  TOKEN: "BOT_TOKEN",
-  PREFIX: "BOT_PREFIX",
-}
-```
-
 ## Music Bot Features
 
 - easy to use Music Bot
