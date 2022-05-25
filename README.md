@@ -1,4 +1,4 @@
-# Hi, I'm Kabir! 👋
+# Hi, I'm DEETRON! 👋
 
 I'm a Discord Bot Developer and here is mine Discord Music Bot
 
@@ -44,10 +44,4 @@ a discord music bot with many commands , buttons , 24/7 , autresume ,etc
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/PcUVWApWN3)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# Thanks For Using Music bot Please Give a Star and please give me credit
+If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/cu25RTDxG6)
