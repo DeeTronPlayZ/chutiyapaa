@@ -1,7 +1,7 @@
 // chat input slash commands
 const { CommandInteraction } = require("discord.js");
 const { embed: ee, emoji } = require("../../../settings/config");
-const JUGNU = require("../../../handlers/Client");
+const DEETRON = require("../../../handlers/Client");
 const { Queue } = require("distube");
 
 module.exports = {
@@ -19,7 +19,7 @@ module.exports = {
 
   /**
    *
-   * @param {JUGNU} client
+   * @param {DEETRON} client
    * @param {CommandInteraction} interaction
    * @param {String[]} args
    * @param {Queue} queue
@@ -32,7 +32,7 @@ module.exports = {
 // message input slash commands
 const { ContextMenuCommandInteraction } = require("discord.js");
 const { embed: ee, emoji } = require("../../../settings/config");
-const JUGNU = require("../../../handlers/Client");
+const DEETRON = require("../../../handlers/Client");
 
 module.exports = {
   name: "",
@@ -40,7 +40,7 @@ module.exports = {
   type: "MESSAGE",
   /**
    *
-   * @param {JUGNU} client
+   * @param {DEETRON} client
    * @param {ContextMenuCommandInteraction} interaction
    */
   run: async (client, interaction) => {
@@ -52,7 +52,7 @@ module.exports = {
 
 const { ContextMenuCommandInteraction } = require("discord.js");
 const { embed: ee, emoji } = require("../../../settings/config");
-const JUGNU = require("../../../handlers/Client");
+const DEETRON = require("../../../handlers/Client");
 
 module.exports = {
   name: "",
@@ -60,7 +60,7 @@ module.exports = {
   type: "USER",
   /**
    *
-   * @param {JUGNU} client
+   * @param {DEETRON} client
    * @param {ContextMenuCommandInteraction} interaction
    */
   run: async (client, interaction) => {
@@ -70,7 +70,7 @@ module.exports = {
 
 // message commands
 const { Message } = require("discord.js");
-const JUGNU = require("../../../handlers/Client");
+const DEETRON = require("../../../handlers/Client");
 const { Queue } = require("distube");
 
 module.exports = {
@@ -88,7 +88,7 @@ module.exports = {
 
   /**
    *
-   * @param {JUGNU} client
+   * @param {DEETRON} client
    * @param {Message} message
    * @param {String[]} args
    * @param {String} prefix
