@@ -95,6 +95,16 @@ module.exports = {
    * @param {Queue} queue
    */
   run: async (client, message, args, prefix, queue) => {
+
+{
+  "TOKEN": "OTc5MDU0NDA1NzAzODM5ODE0.Gc6Cmj.jCV5xFpXMXOHJ4XQFZs-5ycbwubPNnbSRZ8ixA",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "/",
+  "PRUNING": false,
+  "LOCALE": "en",
+  "DEFAULT_VOLUME": 100,
+  "STAY_TIME": 30
+}
     // Code
   },
 };
